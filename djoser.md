@@ -2,7 +2,7 @@
 
 ## FAQ
 
-### Not receiving reset password or reset username email?
+### Not receiving reset password or reset username email without any error?
 1. User is not active.
 1. User doesn't already have usable password.
 1. There are multiple users with this email? Maybe one of them satisfies the 2 previous points.
